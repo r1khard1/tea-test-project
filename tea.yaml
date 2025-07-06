@@ -2,3 +2,4 @@ version: 1
 codeOwners:
   - github: r1khard1
 quorum: 1
+projectUrl: https://github.com/r1khard1/tea-test-project
